@@ -1,2 +1,5 @@
-# Projeto_DIO-Sistema_controle_ponto_acesso
-Construindo um sistema de controle de ponto e acesso com Spring Boot
+# diolive
+
+Api rest para gerenciamento de ponto e controle de acesso.
+
+Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
